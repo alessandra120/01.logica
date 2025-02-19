@@ -10,7 +10,7 @@ idade = 10
 
 if idade < 18:
     print("Acesso negado.")
-    print("Acesso negado.")
-    print("Acesso negado.")
+else:
+    print("Acesso permitido.")
 
-    print("== FIM ==")
+print("== FIM ==")
