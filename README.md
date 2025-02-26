@@ -66,3 +66,4 @@ R= ((F OR F) AND (V AND V)) OR F
 R= (F AND V) OR F
 R= F OR F
 R= F
+
