@@ -5,12 +5,12 @@
 import os
 os.system ("clear")
 
-idade = 65
+# ENTRADA
+idade int(input("Digite sua idade: "))
 
-if idade > 65:
-    ("Não são obrigados a votar")
-if idade < 65:
-    ("Não são obrigados a votar")
+# PROCESSAMENTO
+# OPÇÃO 1.
+# IF IDADE < 18 OR 
 
 
 
