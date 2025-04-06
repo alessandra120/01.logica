@@ -17,8 +17,7 @@ for i in range(3):
 
 media = soma / 3
 
-print()
-print(f"Média: {media}")
+print(f"Média: {media:.2f}")
 
 if media >= 7:
     print("Aprovado!")
@@ -27,6 +26,3 @@ elif media >= 4:
 else:
     media < 4
     print("Reprovado!")
-
-
-print(f"\nFIM DO PROGRAMA")
